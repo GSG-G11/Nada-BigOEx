@@ -115,4 +115,4 @@ function subtotals(array) {
 
 <hr>
 
-## Done By [Nada Abuzaid](https://github.com/nadabassam)
+## Done By [Nada Abuzaid](https://github.com/nada-abuzaid)
